@@ -70,7 +70,7 @@ class Guess extends JFrame
 
         //Creating guess text field
         t3=new JTextField(10);
-        t3.setSize(185,250);
+        t3.setSize(185,120);
         t3.setLocation(10,70);
 
         //Creating guess Label
